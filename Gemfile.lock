@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    benchmark-ips (2.6.1)
+    redis (3.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  benchmark-ips (~> 2.6, >= 2.6.1)
+  redis
+
+BUNDLED WITH
+   1.12.3
